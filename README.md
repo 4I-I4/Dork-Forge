@@ -1,5 +1,5 @@
 # Быстрый старт
- **Попробовать онлайн:** [https://4l-l4.github.io/Dork-Forge/](https://4l-l4.github.io/Dork-Forge/)
+ **Попробовать онлайн:** [https://4l-l4.github.io/Dork-Forge/](https://4i-i4.github.io/Dork-Forge/)
    
 # React + TypeScript + Vite
 
